@@ -1,0 +1,23 @@
+---
+title: "LI JIAHUI 20210322"
+author: "lijiahui"
+date: "2021/3/22"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+- my text  
+- In this matrix, **the column variables represent five students**, and the *row variables represent the scores of different subjects in the final examination*.These students are, in turn,Andy，Brian，Metin，Anna，Samuel. These subjects are, in turn，English Language, History, Psychology, Statistic，Economics，Chemistry.
+$$
+  \begin{matrix}
+   70 & 80 & 85&86 &95&72 \\
+   61 & 84 & 79&85&76&73 \\
+   69 & 67 & 86&75&76&81\\
+   86 & 76 & 75&81&94&84 \\
+  56 & 80 & 69&71&90&82 \\
+  \end{matrix} 
+$$
